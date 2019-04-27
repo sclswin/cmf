@@ -17,7 +17,7 @@
             "src/helpers.php"
         ]
     },
-    "minimum-stability": "master",
+    "minimum-stability": "dev",
     "require": {
     },
     "require-dev": {
